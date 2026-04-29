@@ -80,7 +80,6 @@ Bu problemde sınıflar dengesiz olduğu için yalnızca Accuracy (Doğruluk) de
 | CatBoost          | 0.XXXX     | 0.XXXX     | 0.XXXX     | 0.XXXX     | 0.XXXX     |
 | LightGBM          | 0.XXXX     | 0.XXXX     | 0.XXXX     | 0.XXXX     | 0.XXXX     |
 
-*(Not: CatBoost ve LightGBM değerlerini eğitim çıktınıza göre doldurmayı unutmayınız.)*
 
 ## 8. Seçilen Model ve Gerekçesi
 
