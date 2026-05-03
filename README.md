@@ -66,7 +66,7 @@ En önemli faktörler:
 
 ### Model Comparison
 
-![Model Comparison](reports/figures/model_comparison_clean.png)
+![Model Comparison](reports/figures/model_comparison.png)
 
 ## 📂 Klasör Yapısı
 
