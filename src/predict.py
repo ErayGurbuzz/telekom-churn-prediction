@@ -22,6 +22,7 @@ def load_model():
         model_pipeline = joblib.load(MODEL_PATH)
     return model_pipeline
 
+
 def get_prediction(customer_dict: dict):
 
     """
