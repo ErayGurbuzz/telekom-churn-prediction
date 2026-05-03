@@ -204,3 +204,7 @@ Endpoint: POST /predict
 - Eğitim ve test verisi ayrılırken sınıf dengesizliğini korumak için train_test_split(..., stratify=y) uygulanmıştır.
 
 - Model performansını iyileştirmek amacıyla RandomizedSearchCV ile hyperparameter tuning uygulanmış ve farklı parametre kombinasyonları değerlendirilmiştir. Ancak tuning sonrası elde edilen metriklerin baseline modele kıyasla anlamlı bir iyileşme sağlamadığı gözlemlenmiştir. Bu nedenle, daha düşük karmaşıklığa sahip ve daha stabil sonuçlar üreten model API servisinde tercih edilmiştir.
+
+## 📊 Kaggle Notebook
+
+👉 [Kaggle Notebook Linki]https://www.kaggle.com/code/eraygrbz/telco-customer-churn-analysis-prediction
